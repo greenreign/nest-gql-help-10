@@ -1,6 +1,6 @@
 ## Repro
 
-`yarn`
+`yarn`  
 `yarn start`
 
 - Go to the playground `http://localhost:3000/graphql`
